@@ -4,11 +4,11 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: #ecebee;
+    background-color: #1d1c1e;
 }
 
 h1, h2 ,h3 ,h4 ,h5 ,h6, span {
-    color: #f2eeee;
+    color: #ffffff;
     text-align: center;
     line-height: 1.25;
 } 
@@ -18,7 +18,7 @@ h1 {
 }
 
 p {
-    color: #f2eeee;
+    color: #ffffff;
     line-height: 1.5;
     font-size: 16px;
 }
